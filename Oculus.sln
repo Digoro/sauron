@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Oculus", "Oculus\Oculus.vcxproj", "{FCBB2B57-01E2-44DB-92AA-35C6F415B74F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCBB2B57-01E2-44DB-92AA-35C6F415B74F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FCBB2B57-01E2-44DB-92AA-35C6F415B74F}.Debug|Win32.Build.0 = Debug|Win32
+		{FCBB2B57-01E2-44DB-92AA-35C6F415B74F}.Release|Win32.ActiveCfg = Release|Win32
+		{FCBB2B57-01E2-44DB-92AA-35C6F415B74F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
