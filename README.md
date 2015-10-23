@@ -1,13 +1,5 @@
-현재 실행중인 프로세스의 목록을 출력하여 한 눈에 확인 할 수 있다.
-	출력되는 정보는 다음과 같다.
-	- 프로세스명
-	- 프로세스 아이콘
-	- cpu, memory 점유도
-	- path
-	- pid
-	- company
-	- description
-	- Virus Total 검사 정보
+현재 실행중인 프로세스의 목록을 출력하여 한 눈에 확인 할 수 있다. 
+프로세스명, 프로세스 아이콘, cpu, memory 점유도, path, pid, company, description, Virus Total 검사 정보
 
 virustotal을 이용하여 주기적으로 malware 탐색
 	- hash값 비교를 통해 기존에 분석을 했던 프로세스는 검사하지 않도록 하여 cost 낮춤
